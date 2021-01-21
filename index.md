@@ -9,7 +9,7 @@ description: Welcome to my personal project page. I am actively seeking full-tim
 
 I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I have a B.S.Honor Psychology degree and a math minor at University of Missouri. I am a data visualization lover and create several *Power BI* dashboards. I am also familiar with ETL process and capable of writing complex queries in _Python_ and _SQL_. 
 
-- My 2020 summer internship  at Global AI.(a startup in New York) is responsible for building ETL process to integrate data in gigabytes, creating and deploying dashboard for business use, and scraping large dataset from various sources automatically. 
+- Currently, I am working as a data analyst at Poppy Life Care, where I created several dashboard using their web traffic, social media, and volunteer data by applying web scraping and fuzzy matching etc. 
 - My master degree capstone with Riverside Health System builds model on 8 gigabytes data to accelerate the medication verification time. 
 - I have one year experience work in a Beijing Consulting firms as Business analyst and solve several cases for clients 
 - I also have two year experience in University's psychology labs where I apply my machine learning knowledge to solve real world problem. 
