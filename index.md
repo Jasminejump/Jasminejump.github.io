@@ -22,11 +22,11 @@ I am a 2020 M.S. Business Analytic Candidate at College of William & Mary. I hav
 
 *3. When you view the dashboard, please wait for a while for **Power BI** to lauch*
 
-
+- [Marketing share analysis by Maven Marketing2](https://app.powerbi.com/view?r=eyJrIjoiMTNhZTcxZjctYjU0Mi00NTNjLWIyNmQtNDA0Nzc4NzVlMTAzIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
+- [Adventure Works Cycles Product Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODI3NmQ0YjYtYzBiYS00ZDA5LWEyOTMtOWNjODk3ZWZhOTE4IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
 - [Covid-19 dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjNlMWIwNjItYjk2My00ZWI0LWE0MTAtZDYyNDYxNmM4Y2RmIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9&pageName=ReportSection)
 - [Revenue Performance Reporting Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZjOGI4NDItMDUxNS00ODIzLTgzY2QtMWJjMmE3OTlmMDRmIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9&pageName=ReportSection)
-- [Adventure Works Cycles Product Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODI3NmQ0YjYtYzBiYS00ZDA5LWEyOTMtOWNjODk3ZWZhOTE4IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
-- [Marketing share analysis by Maven Marketing2](https://app.powerbi.com/view?r=eyJrIjoiMTNhZTcxZjctYjU0Mi00NTNjLWIyNmQtNDA0Nzc4NzVlMTAzIiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9)
+
 
 #  Data Science Project 
 - [Fraudulent Activity Identification](/jas_fraud.html)
